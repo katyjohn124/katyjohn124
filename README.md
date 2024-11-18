@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Typescript and python、react and flutter or uni-app etc...
 - 👯 I’m looking to collaborate on some friends who love computing and want to make interesting products to discuss and learn with.
 - 💬 Ask me about how to learn English,especially in listening and speaking.
-- 📫 How to reach me: My wechat——jywd1234567890
+- 📫 How to reach me: My wechat——Fupodameinv123%
 - 😄 Pronouns: He/Him (or just call me John)
 - ⚡ Fun fact: I think AGI will eventually be realized, and humanity will eventually enter the Skynet Terminator era.
 
